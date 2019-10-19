@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+
+```
+$ git clone https://github.com/agovah/React-Todo-List.git
+$ cd react React-Todo-List-master
+$ npm install
+$ npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
