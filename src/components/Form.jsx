@@ -17,7 +17,7 @@ class Form extends Component {
 
         this.props.onAddTask({ id, description });
 
-        this.setState({ nouveauClient: "" });
+        this.setState({ newTask: "" });
     };
 
     render() {
