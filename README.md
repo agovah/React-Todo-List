@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```
 $ git clone https://github.com/agovah/React-Todo-List.git
-$ cd react React-Todo-List-master
+$ cd React-Todo-List-master
 $ npm install
 $ npm start
 ```
