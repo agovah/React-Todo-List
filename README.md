@@ -1,4 +1,4 @@
-To-do list app built with React
+Todo list app built with React
 
 ## Usage
 
